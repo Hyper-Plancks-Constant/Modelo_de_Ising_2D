@@ -10,4 +10,4 @@ Para visualizar o código e os resultados diretamente pelo GitHub, basta clicar 
 
 🔗 [`Modelo_de_Ising(Diego).ipynb`](./Modelo_de_Ising(Diego).ipynb)
 
-Sinta-se à vontade para explorar, adaptar e utilizar este repositório. ✨
+Sinta-se à vontade para explorar e adaptar este repositório. ✨
